@@ -1,0 +1,1 @@
+This is FlexBox exercise. We will take a look at properties such as flex-direction, justify-content, align-items, order and align-self.
